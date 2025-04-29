@@ -1,0 +1,2 @@
+var myName = "페페"
+print("안녕하세요, \(myName)님! Swift Playgrounds에 오신 것을 환영합니다!")
