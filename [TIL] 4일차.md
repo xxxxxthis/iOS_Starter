@@ -223,7 +223,7 @@ print(fruits) // ["바나나", "오렌지", "사과", "포도"]
 
 사전캠프 퀘스트 연산자의 이해 마지막 과제를 진행하는 도중에 약간에 어려움이 있었지만
 
-강의를 통해 해결했음   [공식 문서](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
+강의를 통해 해결했음   [퀘스트 문서](/사전캠프%20퀘스트%20-%20연산자의%20이해.md)
 
 # TMI
 
